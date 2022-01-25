@@ -1,4 +1,5 @@
 # BookWrom-Dictionary
-## Hey!
-All you have to is just to run the program!
-But install python before that! :) 
+## Installation
+* Install python first
+* Put both .py file and words in a same dircetory
+* Then all you have to do is just to run the program! :)
